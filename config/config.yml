@@ -1,0 +1,7 @@
+sizeBoard: 8
+
+configDB:
+  url: ""
+  pwd: ""
+  usr: ""
+  port: ""
